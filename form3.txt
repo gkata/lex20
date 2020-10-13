@@ -1,0 +1,9 @@
+formation : 
+
+    Création spontanée d’un amas de matière
+    ex: formation de calcaire, d’un stalactite, 
+    Ensemble d’enseignements théoriques ou pratiques permettant d’acquérir des compétences dans un domaine
+    ex: formation en TAL
+    Manière de se situer le terrain (dans un contexte militaire ou sportif)
+    ex : formation militaire
+
