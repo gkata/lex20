@@ -1,0 +1,13 @@
+N=219516
+B=106637
+.       30331
+city    1171
+people  1121
+United  899
+used    884
+first   818
+called  804
+States  803
+made    793
+team    515
+
